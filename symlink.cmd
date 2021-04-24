@@ -1,0 +1,1 @@
+mklink /D %appdata%\Factorio\mods\k-shortcuts %cd%\src

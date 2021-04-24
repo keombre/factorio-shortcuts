@@ -1,0 +1,8 @@
+{
+    "name": "k-shortcuts",
+    "version": "1.0.0",
+    "title": "Keombre's shortcuts",
+    "author": "Keombre",
+    "factorio_version": "1.1",
+    "dependencies": ["base"]
+}
